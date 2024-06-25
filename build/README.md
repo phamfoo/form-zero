@@ -68,11 +68,31 @@ Next, align the PCB's top edge with the top wall of the case. Hold the top edge 
 
 ![](images/bend.gif)
 
+The cable's now ready. Unscrew the carrier board to install the switches.
+
 ## Install the switches
 The board doesn't come with standoffs, so it might be a little tricky to install the switches. Watch [this video](https://www.youtube.com/watch?v=MtzzKFZqiPw&t=303s) if you're not sure how to do it properly.
+
+![](images/switches.jpg)
 
 I also highly recommend performing the PE foam mod and tape mod at this step. From my experience, these two mods greatly improve the sound of the board.
 
 ## Install the gaskets
 
+Install the gaskets (4x60mm) on the top and bottom case (there are 12 in total).
+
+> If you plan to swap out the top case, install them on the plate instead.
+
+![](images/gaskets.jpg)
+
+Smaller gaskets should also work.
+
+![](images/gaskets2.jpg)
+
+Here's what it looks like with the plate sandwiched between them.
+
+![](images/gaskets3.jpg)
+
 ## Assemble the board
+
+The rest is simple. Just screw in the carrier board and the top case. You're done!
